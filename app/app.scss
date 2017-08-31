@@ -1,0 +1,28 @@
+/* app css stylesheet */
+
+
+  .navbar navbar-default {
+    background-color: #FFBE00;
+    display: block;
+
+    .navbar-left {
+      float: left;
+    }
+
+    .navbar-right li a {
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: 600;
+      padding-top: 30px;
+      padding-bottom: 30px;
+    }
+
+    .active a {
+      background-color: rgba(0, 0, 0, .2);
+    }
+
+    .navbar-brand h1 {
+      margin-top: 5px;
+    }
+  }
+

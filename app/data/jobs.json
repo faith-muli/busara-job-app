@@ -1,0 +1,46 @@
+{
+    "jobs": [
+      {
+        "title": "Training Centre Coordinator",
+        "type": "folder",
+        "company": "me",
+        "closingDate": "July 8, 2015",
+        "createdDate": "July 8, 2015",
+        "jobDescription":"JOb APP Kenya seeks a highly qualified Training Centre Coordinator to run/support the Training Centre and to provide training services for clients and employees. The role will include responsibility for ensuring that there is adequate and suitable training materials & schedules.",
+        "jobResponsibilities": [{"responsibility":"Promote the Training Centre to consultants, contractors, customers, Engineers and employees, Prepare and execute training programs"},{"responsibility":"Receive and coordinate booking of courses by customers"}],
+        "jobRequirements":[{"req":"Minimum 4-5 years’ experience in the electrical engineering field"},{"req":"Bachelor’s Degree in Electrical Engineering"}]
+      },
+      {
+        "title": "Training Centre Coordinator",
+        "type": "folder",
+        "company": "me",
+        "closingDate": "July 8, 2015",
+        "createdDate": "July 8, 2015",
+        "jobDescription":"JOb APP Kenya seeks a highly qualified Training Centre Coordinator to run/support the Training Centre and to provide training services for clients and employees. The role will include responsibility for ensuring that there is adequate and suitable training materials & schedules.",
+        "jobResponsibilities": [{"responsibility":"Promote the Training Centre to consultants, contractors, customers, Engineers and employees, Prepare and execute training programs"},{"responsibility":"Receive and coordinate booking of courses by customers"}],
+        "jobRequirements":[{"req":"Minimum 4-5 years’ experience in the electrical engineering field"},{"req":"Bachelor’s Degree in Electrical Engineering"}]
+      },
+      {
+        "title": "Training Centre Coordinator",
+        "type": "folder",
+        "company": "me",
+        "closingDate": "July 8, 2015",
+        "createdDate": "July 8, 2015",
+        "jobDescription":"JOb APP Kenya seeks a highly qualified Training Centre Coordinator to run/support the Training Centre and to provide training services for clients and employees. The role will include responsibility for ensuring that there is adequate and suitable training materials & schedules.",
+        "jobResponsibilities": [{"responsibility":"Promote the Training Centre to consultants, contractors, customers, Engineers and employees, Prepare and execute training programs"},{"responsibility":"Receive and coordinate booking of courses by customers"}],
+        "jobRequirements":[{"req":"Minimum 4-5 years’ experience in the electrical engineering field"},{"req":"Bachelor’s Degree in Electrical Engineering"}]
+      },
+      {
+        "title": "Training Centre Coordinator",
+        "type": "folder",
+        "company": "me",
+        "closingDate": "July 8, 2015",
+        "createdDate": "July 8, 2015",
+        "jobDescription":"JOb APP Kenya seeks a highly qualified Training Centre Coordinator to run/support the Training Centre and to provide training services for clients and employees. The role will include responsibility for ensuring that there is adequate and suitable training materials & schedules.",
+        "jobResponsibilities": [{"responsibility":"Promote the Training Centre to consultants, contractors, customers, Engineers and employees, Prepare and execute training programs"},{"responsibility":"Receive and coordinate booking of courses by customers"}],
+        "jobRequirements":[{"req":"Minimum 4-5 years’ experience in the electrical engineering field"},{"req":"Bachelor’s Degree in Electrical Engineering"}]
+      }
+    ]
+
+
+}

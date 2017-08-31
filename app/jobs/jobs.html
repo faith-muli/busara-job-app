@@ -1,0 +1,33 @@
+
+<div class="content" layout="row"  >
+    <div flex="30">
+
+</div>
+    <div  flex="70">
+    <md-content class="md-padding" layout-xs="column" layout="row">
+        <div flex-xs flex-gt-xs="50" layout="column">
+        <md-card md-theme="'dark-purple'" ng-repeat="job in vm.jobs.jobs"  >
+            <md-card-title-media>
+
+                <div class="md-media-md card-media" layout-align="start center"> <i class="icon-file-pdf s48"></i></div>
+            </md-card-title-media>
+
+                <md-card-title>
+                    <md-card-title-text>
+                        <span class="md-headline">{{job.title}}</span>
+                        <span class="md-subhead">Closing Date:{{job.closingDate}}</span>
+                    </md-card-title-text>
+
+                </md-card-title>
+            <md-card-content layout="row" layout-align="space-between">
+                <span class="md-subhead">{{job.jobDescription}}</span>
+            </md-card-content>
+                <md-card-actions layout="row" layout-align="end end">
+                    <md-button ng-click="vm.viewJobDetails()">Read More</md-button>
+                </md-card-actions>
+            </md-card>
+        </div>
+    </md-content>
+
+    </div>
+</div>
