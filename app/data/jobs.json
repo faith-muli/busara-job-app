@@ -1,44 +1,57 @@
 {
     "jobs": [
       {
+        "id":1,
         "title": "Training Centre Coordinator",
-        "type": "folder",
+        "type": "Permanent",
         "company": "me",
         "closingDate": "July 8, 2015",
         "createdDate": "July 8, 2015",
-        "jobDescription":"JOb APP Kenya seeks a highly qualified Training Centre Coordinator to run/support the Training Centre and to provide training services for clients and employees. The role will include responsibility for ensuring that there is adequate and suitable training materials & schedules.",
+        "jobDescription":"Job App Kenya seeks a highly qualified Training Centre Coordinator to run/support the Training Centre and to provide training services for clients and employees. The role will include responsibility for ensuring that there is adequate and suitable training materials & schedules.",
         "jobResponsibilities": [{"responsibility":"Promote the Training Centre to consultants, contractors, customers, Engineers and employees, Prepare and execute training programs"},{"responsibility":"Receive and coordinate booking of courses by customers"}],
         "jobRequirements":[{"req":"Minimum 4-5 years’ experience in the electrical engineering field"},{"req":"Bachelor’s Degree in Electrical Engineering"}]
       },
       {
-        "title": "Training Centre Coordinator",
-        "type": "folder",
+        "id":2,
+        "title": " Marketing Manager",
+        "type": "Contract",
         "company": "me",
         "closingDate": "July 8, 2015",
         "createdDate": "July 8, 2015",
-        "jobDescription":"JOb APP Kenya seeks a highly qualified Training Centre Coordinator to run/support the Training Centre and to provide training services for clients and employees. The role will include responsibility for ensuring that there is adequate and suitable training materials & schedules.",
-        "jobResponsibilities": [{"responsibility":"Promote the Training Centre to consultants, contractors, customers, Engineers and employees, Prepare and execute training programs"},{"responsibility":"Receive and coordinate booking of courses by customers"}],
-        "jobRequirements":[{"req":"Minimum 4-5 years’ experience in the electrical engineering field"},{"req":"Bachelor’s Degree in Electrical Engineering"}]
+        "jobDescription":"Help A Child International is the secretariat to the HelpAge Global Network, which brings together a wide range of organisations and individuals working to promote the rights and meet the needs of older women and men, nationally and/or internationally.Our long-term vision is to establish a global movement of strong connected age focused and older people led platforms in every country in the world.HelpAge International Kenya Country programme seeks to recruit a Finance Officer who will be responsible for maintaining sound financial and accounting systems, ensuring internal controls, processing payments, filing and document retrieval, providing data for report preparation and data input for both Kenya and Africa Regional office.",
+        "jobResponsibilities": [{"responsibility":"Ensure that all financial transactions are carried out and recorded in accordance with IAS and HelpAge International procedures and policies."},{"responsibility":"Petty cash management and custody"}, {"responsibility":"Cash flow management and bank reconciliation for Kenya and ARO accounts,"},{"responsibility":"Reviewing Travel Expense Reports (TERs) for accuracy before approval by Line Managers"}],
+        "jobRequirements":[{"req":"Bachelors degree in Marketing from a recognized institution"},
+          {"req":"Advanced Certificate and Postgraduate Diploma in Marketing desirable"},
+          {"req":"Experience in all aspects of developing and managing marketing strategies."},
+          {"req":"Relevant product and industry knowledge for a minimum of 3 years."}]
       },
       {
-        "title": "Training Centre Coordinator",
-        "type": "folder",
+        "id":3,
+        "title": " Project Management Officer",
+        "type": "Permanent",
         "company": "me",
         "closingDate": "July 8, 2015",
         "createdDate": "July 8, 2015",
-        "jobDescription":"JOb APP Kenya seeks a highly qualified Training Centre Coordinator to run/support the Training Centre and to provide training services for clients and employees. The role will include responsibility for ensuring that there is adequate and suitable training materials & schedules.",
-        "jobResponsibilities": [{"responsibility":"Promote the Training Centre to consultants, contractors, customers, Engineers and employees, Prepare and execute training programs"},{"responsibility":"Receive and coordinate booking of courses by customers"}],
-        "jobRequirements":[{"req":"Minimum 4-5 years’ experience in the electrical engineering field"},{"req":"Bachelor’s Degree in Electrical Engineering"}]
+        "jobDescription":"Hivi Sasa is an international organisation that seeks new solutions to persistent global issues. With smart projects in the right places, we oppose discrimination, inequality, abuse of power and the unsustainable use of our planet’s resources. Counterbalance alone, however, is not enough. Our primary focus is achieving structural change. This is why we cooperate with innovative businesses, citizens and their organisations. We share a dream with them of sustainable economies and inclusive societies.",
+        "jobResponsibilities": [{"responsibility":"Communication and Representation"},{"responsibility":"Voice grant making criteria, principles and processes"},
+          {"responsibility":"Grant Management and Partner Support"}, {"responsibility":"Provide technical support as needed to potential grantees in the formulation of grant applications"}],
+        "jobRequirements":[{"req":"5 years experience with large scale grant management"},{"req":"Knowledge of and affinity with social inclusion, marginalisation, lobby & advocacy"},
+          {"req":"Relevant Academic background (MA level) or similar"},{"req":"Excellent organisational and coordination skills."}
+        ]
       },
       {
-        "title": "Training Centre Coordinator",
-        "type": "folder",
+        "id":4,
+        "title": " Refrigeration Technician",
+        "type": "Permanent",
         "company": "me",
         "closingDate": "July 8, 2015",
         "createdDate": "July 8, 2015",
-        "jobDescription":"JOb APP Kenya seeks a highly qualified Training Centre Coordinator to run/support the Training Centre and to provide training services for clients and employees. The role will include responsibility for ensuring that there is adequate and suitable training materials & schedules.",
-        "jobResponsibilities": [{"responsibility":"Promote the Training Centre to consultants, contractors, customers, Engineers and employees, Prepare and execute training programs"},{"responsibility":"Receive and coordinate booking of courses by customers"}],
-        "jobRequirements":[{"req":"Minimum 4-5 years’ experience in the electrical engineering field"},{"req":"Bachelor’s Degree in Electrical Engineering"}]
+        "jobDescription":"Our client in a dairy industry in Nakuru is looking to recruit a refrigeration technician who is experienced in ammonia compressor/ refrigeration (ammonia)/ cooling towers and chillers.",
+        "jobResponsibilities": [{"responsibility":"Manage the safety of the refrigerators and air conditioners"},
+          {"responsibility":"Operating tools, gauges and other testing equipment for refrigeration systems.Receive and coordinate booking of courses by customers"},
+          {"responsibility":"Trouble shooting, repair and overhaul of refrigeration systems."},{"responsibility":"Performing root cause analysis on refrigeration equipment failures to prevent reoccurrence"}
+        ],
+        "jobRequirements":[{"req":"Diploma in refrigeration and air conditioning from a recognized institution."},{"req":"Working experience of at least 5 years."},{"req":"Ability to work independently"}]
       }
     ]
 

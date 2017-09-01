@@ -1,7 +1,47 @@
 
-<div class="content" layout="row" layout-padding layout-wrap layout-fill style="padding-bottom: 32px;" >
+<div id="job-details" layout="row" layout-wrap>
+    <div class="col-sm-2"></div>
+    <div class="card md-whiteframe-8dp col-sm-8" layout="column" layout-align="start start" style="padding-left: 10px; margin-left:30px" flex="60">
 
-    <md-whiteframe class="md-whiteframe-4dp"  layout layout-align="center center">
-        <span>.md-whiteframe-1dp</span>
-    </md-whiteframe>
+
+            <md-content style="padding-left: 10px; margin-left:10px" >
+            <div class="text" layout-align="center">
+                <h2>{{vm.selectedData.title}}</h2>
+            </div>
+                <div class="text">
+                    <h4>Closing Date: {{vm.selectedData.closingDate}}</h4>
+                </div>
+                <div class="text">
+                    <h4>Job Type: {{vm.selectedData.type}}</h4>
+                </div>
+                <div id="desc" class="text">
+                    <p>{{vm.selectedData.jobDescription}}</p>
+                </div>
+                <div class="title h3">Responsibilities</div>
+                <div class="text" ng-repeat="responsibility in vm.selectedData.jobResponsibilities">
+                    <ul>
+                        <li>
+                        {{responsibility.responsibility}}
+                         </li>
+                    </ul>
+
+                </div>
+                <div class="title h3">Requirements</div>
+                <div ng-repeat="requirements in vm.selectedData.jobRequirements">
+                    <ul>
+                        <li class="h5">{{requirements.req}}</li>
+                    </ul>
+
+                </div>
+
+                <div layout="row" >
+                   <!-- <button type="button" class="btn btn-lg btn-primary">APPLY</button>-->
+                </div>
+
+        </md-content>
+    </div>
+    <div class="col-sm-2"></div>
+
+
+
 </div>

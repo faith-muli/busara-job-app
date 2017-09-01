@@ -15,7 +15,7 @@
                 templateUrl: 'jobs/jobs.html',
                 controller: 'JobsController as vm'
             })
-                .when('/job-details', {
+                .when('/job-details/:id', {
                     templateUrl: 'jobs/views/job-details/job-details-view.html',
                     controller: 'JobDetailsController as vm'
             });

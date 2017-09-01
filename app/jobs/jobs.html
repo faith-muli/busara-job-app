@@ -6,7 +6,7 @@
     <div  flex="70">
     <md-content class="md-padding" layout-xs="column" layout="row">
         <div flex-xs flex-gt-xs="50" layout="column">
-        <md-card md-theme="'dark-purple'" ng-repeat="job in vm.jobs.jobs"  >
+        <md-card md-theme="'dark-purple'" ng-repeat="job in vm.jobs.jobs"  ng-click="vm.viewJobDetails(job)" id="{{job.id}}" >
             <md-card-title-media>
 
                 <div class="md-media-md card-media" layout-align="start center"> <i class="icon-file-pdf s48"></i></div>
@@ -23,7 +23,7 @@
                 <span class="md-subhead">{{job.jobDescription}}</span>
             </md-card-content>
                 <md-card-actions layout="row" layout-align="end end">
-                    <md-button ng-click="vm.viewJobDetails()">Read More</md-button>
+                    <md-button ng-click="vm.viewJobDetails('job')" >Read More</md-button>
                 </md-card-actions>
             </md-card>
         </div>
